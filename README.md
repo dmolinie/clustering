@@ -49,12 +49,12 @@ The project is distributed under GPLv3 license.
 ## Download
 
 To download the project, either go to the project page:  
-https://gitlab.com/primaut/clustering
+https://github.com/dmolinie/clustering
 
 Or download it directly with the following command:
 
 ```bash
-git clone https://gitlab.com/primaut/clustering.git
+git clone https://github.com/dmolinie/clustering.git
 ```
 
 
