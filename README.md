@@ -1,7 +1,7 @@
 # Toolbox for ND data partitioning and evaluation
 
 <h1 align="center">
-<img src="scripts/illustration.png" width="500">
+<img src="scripts/illustration.png">
 </h1><br>
 
 
