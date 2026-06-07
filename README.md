@@ -1,4 +1,4 @@
-# Toolbox for ND data partitioning and evaluation
+# Toolbox for ND Data Partitioning and Evaluation
 
 <h1 align="center">
 <img src="scripts/illustration.png">
