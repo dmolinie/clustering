@@ -75,6 +75,7 @@ def nested_circles(pts=500, gap=3, mean=0., ratio=1., show=False, **kwrng):
     >>> print(data.shape)
     (2000, 2)
     """
+    # pylint: disable=too-many-locals
 
     rng = np.random.default_rng(**kwrng)
 
