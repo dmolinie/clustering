@@ -3,8 +3,7 @@ Clustering package's modules, functions & classes
 
 This file aims to summarize all the objects implemented in the ``clustering`` package; to this purpose, it briefly introduces the modules of the package, as well as their respective functions and classes.
 
-..
-  Contents::
+.. Contents::
 
 
 cluster

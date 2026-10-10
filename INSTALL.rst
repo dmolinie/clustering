@@ -28,7 +28,7 @@ To install the ``clustering`` package, when in the installation folder, run the 
 .. code-block:: sh
 
    pip install .
-   
+
 This will compile the package's sources and install them into the active environment (e.g. "site-packages").
 
 

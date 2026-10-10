@@ -6,5 +6,6 @@ __pycache__
 *.tar.xz
 *.pdf
 *.egg-info
+*.git_cmds
 dist*/
 
