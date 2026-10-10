@@ -6,7 +6,6 @@
 
 
 ## Contents
-
 1. [Description](#Description)
 2. [Download](#Download)
 3. [Installation](#Installation)
@@ -15,7 +14,7 @@
 
 
 ## Description
-The **clustering** package is a toolbox that provides tools to cluster sets of data in a blind Data-Mining context, where little or even no *a-piori* knowledge is accessible. It features three main parts:
+The `clustering` package is a toolbox that provides tools to cluster sets of data in a blind Data-Mining context, where little or even no *a-piori* knowledge is accessible. It features three main parts:
 
 1. **Wrappers**: classes to represent a set and a cluster of data, with the ND data themselves, but also their (time-)stamps and some additional contextual information; these classes help keep track of the data once they are distributed into the clusters.
 2. **Clustering**: highly configurable classes and functions to cluster an ND dataset, using standard (e.g. K-Means, SOMs) and newly proposed (e.g. BSOMs, SPRADA) methods. Additional clustering methods from the Scikit-Learn suit can also be easily interfaced with the project.
@@ -47,7 +46,6 @@ The project is distributed under GPLv3 license.
 
 
 ## Download
-
 To download the project, either go to the project page:  
 https://github.com/dmolinie/clustering
 
